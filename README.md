@@ -99,13 +99,14 @@ Base de datos  SQL
 Propuesta de diagrama entidad relación 
 
 
+https://github.com/DafneOrtiz/transaction-java-springboot/blob/master/ModelDBSQL.png
 
 Base de datos  NOTSQL
 
 Propuestas de modelo de datos nosql
 
 
-
+https://github.com/DafneOrtiz/transaction-java-springboot/blob/master/ModelDBNOSQL.png
 
 
 ---
