@@ -5,20 +5,14 @@ Esta aplicación toma varios parámetros de entrada y alamcena datos sobre trans
 La aplicación procesa los parámetros y termina su ejecucion.
 La aplicación almecena las transacciones en el sistema de archivos debajo de la carpeta donde se encuentra la aplicación. 
 
-
-
 ## Comenzando 
 
 Colocar la aplicacion(jar) en la carpera deseada.
 Si se desea obtener el codigo de la aplicacion, decargar desde https://github.com/DafneOrtiz/transaction-java-springboot.git 
 
-Mira **Deployment** para conocer como desplegar el proyecto.
-
-
 ### Pre-requisitos 
 
 * java 8
-
 
 ### Instalación y puesta en marcha 
 
