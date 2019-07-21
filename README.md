@@ -1,13 +1,12 @@
 # Proyecto CRUD para transacciones
 
 Aplicación Java que puede ejecutarse desde la línea de comandos. 
-Esta aplicación toma varios parámetros de entrada y alamcena datos sobre transacciones. 
-La aplicación procesa los parámetros y termina su ejecucion.
-La aplicación almecena las transacciones en el sistema de archivos debajo de la carpeta donde se encuentra la aplicación. 
+Esta aplicación toma varios parámetros de entrada y almacena datos sobre transacciones. 
+La aplicación almacena las transacciones en el sistema de archivos debajo de la carpeta donde se encuentra la aplicación. 
 
 ## Comenzando 
 
-Colocar la aplicacion(jar) en la carpera deseada.
+Colocar la aplicacion(jar) en la carpeta deseada.
 Si se desea obtener el codigo de la aplicacion, decargar desde https://github.com/DafneOrtiz/transaction-java-springboot.git 
 
 ### Pre-requisitos 
@@ -16,22 +15,22 @@ Si se desea obtener el codigo de la aplicacion, decargar desde https://github.co
 
 ### Instalación y puesta en marcha 
 
-*Contruyendo el proyecto desde la fuente 
+*Construyendo el proyecto desde la fuente 
 
-Una vez que el proyecto fue descargado , ejecutar el siguiente comando en cmd, desde la carpeta donde se localiza el proyecto con la finalidad de generar el empaquetado de la aplicacion.
+Una vez que el proyecto fue descargado , ejecutar el siguiente comando en cmd, desde la carpeta donde se localiza el proyecto con la finalidad de generar el empaquetado de la aplicación.
 
 ```
 $ ./mvn clean package
 
 ```
 
-*Utilizar el empequetado adjunto
+*Utilizar el empaquetado adjunto
 
-La aplicacion fue empaquetada previamente y se encuentra adjunta en la raiz del proyecto, colocar la aplicacion en la capeta deseada.
+La aplicación fue empaquetada previamente y se encuentra adjunta en la raíz del proyecto, colocar la aplicación en la carpeta deseada.
 
-*Ejecucion de comandos:
+*Ejecución de comandos:
 
-Ejecuctar los comandos en cmd desde la carpeta donde se localiza la aplicacion.
+Ejecutar los comandos en cmd desde la carpeta donde se localiza la aplicación.
 
 Estructura de los comandos 
 
@@ -97,12 +96,14 @@ java -jar transactions-1.0.jar 3 sum
 
 Base de datos  SQL 
 
-Propuestad de diagrama entidad relacion 
+Propuesta de diagrama entidad relación 
 
 
 Base de datos  NOTSQL
 
-Propuestad de colecion 
+Propuestas de coleccion 
 
 ---
 ⌨️  por [Dafne Ortiz](www.linkedin.com/in/dafneBaalOrtizAvila) 😊
+
+
