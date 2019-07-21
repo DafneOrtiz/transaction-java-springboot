@@ -99,9 +99,14 @@ Base de datos  SQL
 Propuesta de diagrama entidad relación 
 
 
+
 Base de datos  NOTSQL
 
-Propuestas de coleccion 
+Propuestas de modelo de datos nosql
+
+
+
+
 
 ---
 ⌨️  por [Dafne Ortiz](www.linkedin.com/in/dafneBaalOrtizAvila) 😊
