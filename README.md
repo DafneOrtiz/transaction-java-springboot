@@ -18,7 +18,7 @@ Si se desea obtener el codigo de la aplicacion, decargar desde https://github.co
 
 *Contruyendo el proyecto desde la fuente 
 
-Una vez que el proyecto fue descargado , ejecutar el siguenite comando en CMD, desde la carpeta donde se localiza el proyecto con la finalidad de generar el empaquetado de la aplicacion.
+Una vez que el proyecto fue descargado , ejecutar el siguiente comando en cmd, desde la carpeta donde se localiza el proyecto con la finalidad de generar el empaquetado de la aplicacion.
 
 ```
 $ ./mvn clean package
