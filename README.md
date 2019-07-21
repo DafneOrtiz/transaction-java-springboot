@@ -20,7 +20,7 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 * java 8
 
 
-### Instalación y puesta en marcha 🔧
+### Instalación y puesta en marcha 
 
 *Contruyendo el proyecto desde la fuente 
 
@@ -91,8 +91,6 @@ java -jar transactions-1.0.jar 3 sum
 
 
 ## Construido con 
-
-_Menciona las herramientas que utilizaste para crear tu proyecto_
 
 * [Spring boot](https://start.spring.io/) - El framework usado
 * [Maven](https://maven.apache.org/) - Manejador de dependencias
