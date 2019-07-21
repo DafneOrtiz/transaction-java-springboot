@@ -98,8 +98,8 @@ Base de datos  SQL
 
 Propuesta de diagrama entidad relación 
 
+ ![Alt text](https://github.com/DafneOrtiz/transaction-java-springboot/blob/master/ModelDBSQL.png "Title") 
 
-https://github.com/DafneOrtiz/transaction-java-springboot/blob/master/ModelDBSQL.png
 
 Base de datos  NOTSQL
 
