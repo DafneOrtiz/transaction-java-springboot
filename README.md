@@ -96,17 +96,16 @@ java -jar transactions-1.0.jar 3 sum
 
 Base de datos  SQL 
 
-Propuesta de diagrama entidad relación 
+Propuesta de modelo de datos SQL
 
- ![Alt text](https://github.com/DafneOrtiz/transaction-java-springboot/blob/master/ModelDBSQL.png "Title") 
+ ![Alt text](https://github.com/DafneOrtiz/transaction-java-springboot/blob/master/ModelDBSQL.png) 
 
 
 Base de datos  NOTSQL
 
-Propuestas de modelo de datos nosql
+Propuesta de modelo de datos nosql
 
-
-https://github.com/DafneOrtiz/transaction-java-springboot/blob/master/ModelDBNOSQL.png
+![Alt text](https://github.com/DafneOrtiz/transaction-java-springboot/blob/master/ModelDBNOSQL.png) 
 
 
 ---
